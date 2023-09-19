@@ -7,6 +7,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Mminy62"><img src="https://avatars.githubusercontent.com/u/66752398?v=4" width="100px;" alt=""/><br /><sub><b>Minyeong</b></sub></a><br />📖</a></td>
+    <td align="center"><a href="https://github.com/xohxe"><img src="https://avatars.githubusercontent.com/u/75136643?v=4" width="100px;" alt=""/><br /><sub><b>xohxe</b></sub></a><br />𝖘𝖙𝖗𝖊𝖊𝖙 𝖉𝖆𝖓𝖈𝖊 </a></td>
   </tr>
 </table>
 
