@@ -7,7 +7,11 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/GeonH0"><img src="https://avatars.githubusercontent.com/u/88571960?v=4" width="100px;" alt=""/></a><br /><sub><b><a href="#김건호">GeonH0</b></sub></a><br />⚽</a></td>
-    <td align="center"><a href="https://github.com/xohxe"><img src="https://avatars.githubusercontent.com/u/75136643?v=4" width="100px;" alt=""/></a><br /><sub><b><a href="#김소혜">xohxe</b></sub></a><br />𝖘𝖙𝖗𝖊𝖊𝖙 𝖉𝖆𝖓𝖈𝖊 </a></td>
+    <td align="center"><a href="https://github.com/xohxe"><img src="https://avatars.githubusercontent.com/u/75136643?v=4" width="100px;" alt=""/></a><br /><sub><b><a href="#김소혜">xohxe</b></sub></a><br />𝖘𝖙𝖗𝖊𝖊𝖙 𝖉𝖆𝖓𝖈𝖊 <br />
+    <a href="https://github.com/xohxe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+</a>
+    </td>
     <td align="center"><a href="https://github.com/sunujun"><img src="https://avatars.githubusercontent.com/u/98377339?v=4"width="100px;" alt=""/></a><br /><sub><b><a href="#오성준">sunujun</b></sub></a><br />🚀</a></td>
     <td align="center"><a href="https://github.com/Mminy62"><img src="https://avatars.githubusercontent.com/u/66752398?v=4" width="100px;" alt=""/></a><br /><sub><b><a href="#이민영">Minyeong</b></sub></a><br />🍜</a></td>
     <td align="center"><a href="https://github.com/funMango"><img src="https://avatars.githubusercontent.com/u/138420832?v=4" width="100px;" alt=""/></a><br /><sub><b><a href="#이민호">minho</b></sub></a><br />🧑‍💻</a></td>
@@ -24,9 +28,6 @@
 
 ### 김소혜
 
-<a href="https://github.com/xohxe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
-</a>
 사용자들이 편하게 이용할 수 있는 서비스를 만들고 싶습니다.  
 넷플보고 춤수업 듣는 게 취미에요.
 
