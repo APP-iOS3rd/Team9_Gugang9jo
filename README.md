@@ -1,6 +1,3 @@
-<a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=9강9조!&fontAlign=80&fontAlignY=40&color=gradient)
-
 # Team9_Gugang9jo
 
 # 구강구조
