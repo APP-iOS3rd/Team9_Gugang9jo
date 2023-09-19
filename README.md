@@ -24,7 +24,7 @@
       <a href="https://github.com/sunujun">
         <img src="https://avatars.githubusercontent.com/u/98377339?v=4"width="100px;" alt=""/>
       </a><br />
-      <sub><b><a href="#오성준">sunujun</b></sub></a><br />🚀</a>
+      <sub><b><a href="#오성준">sunujun</b></sub></a><br />🚀</a><br/>
       <a href="https://github.com/sunujun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </td>
     <td align="center">
