@@ -4,7 +4,7 @@
 
 ## 조원
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/GeonH0">
