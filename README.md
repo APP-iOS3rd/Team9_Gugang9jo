@@ -1,3 +1,6 @@
+<a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=9강9조!&fontAlign=80&fontAlignY=40&color=gradient)
+
 # Team9_Gugang9jo
 
 # 구강구조
@@ -12,11 +15,11 @@
   </tr>
 </table>
 
-- 김건호
-- 김소혜
-- 오성준
-- 이민영
-- 이민호
+- [김건호](#김건호)
+- [김소혜](#김소혜)
+- [오성준](#오성준)
+- [이민영](#이민영)
+- [이민호](#이민호)
 
 ## 팀원 소개
 
