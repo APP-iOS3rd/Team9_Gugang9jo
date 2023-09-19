@@ -24,11 +24,12 @@
 
 ### 김소혜
 
-사용자들이 편하게 이용할 수 있는 서비스를 만들고 싶습니다.  
-넷플보고 춤수업 듣는 게 취미에요.
 <a href="https://github.com/xohxe">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
 </a>
+사용자들이 편하게 이용할 수 있는 서비스를 만들고 싶습니다.  
+넷플보고 춤수업 듣는 게 취미에요.
+
 
 ### 오성준
 
