@@ -38,6 +38,10 @@
         <a href = "https://github.com/sunujun/sunujun">
           <img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/>
         </a>
+        <br/>
+        <a href="https://github.com/sunujun/sunujun">
+          <img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/>
+        </a>
       </td>
     <td align="center">
       <a href="https://github.com/Mminy62">
