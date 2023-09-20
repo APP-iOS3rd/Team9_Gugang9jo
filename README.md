@@ -19,6 +19,10 @@
       </a><br />
       <sub><b><a href="#김소혜">xohxe</b></sub></a><br />𝖘𝖙𝖗𝖊𝖊𝖙 𝖉𝖆𝖓𝖈𝖊 <br />
       <a href="https://github.com/xohxe"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <br> 
+      <a href="https://just-doit.me/about/">
+        <img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/sunujun">
@@ -33,7 +37,10 @@
       </a><br />
       <sub><b><a href="#이민영">Minyeong</b></sub></a><br />🍜</a><br/>
         <a href="https://github.com/Mminy62"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-        <br><a href = "https://github.com/Mminy62/resume#readme"><img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/></a>
+        <br>
+        <a href = "https://github.com/Mminy62/resume#readme">
+          <img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/>
+        </a>
       </td>
     <td align="center">
       <a href="https://github.com/funMango">
