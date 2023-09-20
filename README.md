@@ -12,6 +12,10 @@
       </a><br />
       <sub><b><a href="#김건호">GeonH0</b></sub></a><br />⚽</a><br/>
       <a href="https://github.com/GeonH0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+         <br> 
+      <a href="https://github.com/GeonH0/GeonH0">
+        <img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/>
+      </a>
     </td>
     <td align="center"> 
       <a href="https://github.com/xohxe">
