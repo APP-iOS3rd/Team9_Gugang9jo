@@ -52,6 +52,7 @@
       </a><br />
       <sub><b><a href="#이민호">minho</b></sub></a><br />🧑‍💻</a><br/>
         <a href="https://github.com/funMango"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+        <br>
         <a href="https://github.com/funMango/fumMango">
         <img src="https://img.shields.io/badge/Resume-528DD7?style=flat-square&logo=ReadMe&logoColor=white"/>
       </a>
