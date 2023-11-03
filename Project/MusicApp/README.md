@@ -6,9 +6,15 @@
 
 ## 페이지 구성
 
+|`시작 페이지`|`플레이 뮤직 페이지`|`플레이 리스트 페이지`|
+|-------|-------|-------|
+|<img src="https://github.com/APP-iOS3rd/Team9_Gugang9jo/blob/main/Project/MusicApp/docsImage/MainView.png"  width="200" height="300">|<img src="https://github.com/APP-iOS3rd/Team9_Gugang9jo/blob/main/Project/MusicApp/docsImage/PlayView.png"  width="200" height="300">|<img src="https://github.com/APP-iOS3rd/Team9_Gugang9jo/blob/main/Project/MusicApp/docsImage/PlayListView.png"  width="200" height="300">
+
+
 ### 시작 페이지 (ContentView)
 
 
-
 ### 플레이 페이지 (PlayMusicView)
+
+
 ### 마이 플레이리스트 페이지 (PlayMusicView)
