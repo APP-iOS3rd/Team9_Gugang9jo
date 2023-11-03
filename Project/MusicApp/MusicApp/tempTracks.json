@@ -1,0 +1,38 @@
+[
+  {
+    "name": "My Love Mine All Mine",
+    "duration": "0",
+    "playcount": "8617233",
+    "listeners": "542130",
+    "mbid": "",
+    "url": "https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "artist": {
+      "name": "Mitski",
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "url": "https://www.last.fm/music/Mitski"
+    },
+      "image": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  },
+  {
+    "name": "Cruel Summer",
+    "duration": "0",
+    "playcount": "27622885",
+    "listeners": "962184",
+    "mbid": "",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Cruel+Summer",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "image": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png"
+  }
+]
