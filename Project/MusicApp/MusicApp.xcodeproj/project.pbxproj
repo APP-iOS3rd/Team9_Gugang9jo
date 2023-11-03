@@ -13,7 +13,6 @@
 		529B59992AF3773800E6208E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59982AF3773800E6208E /* ContentView.swift */; };
 		529B599B2AF3773900E6208E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 529B599A2AF3773900E6208E /* Assets.xcassets */; };
 		529B599F2AF3773900E6208E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 529B599E2AF3773900E6208E /* Preview Assets.xcassets */; };
-		529B59A82AF3791000E6208E /* MusicElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59A72AF3791000E6208E /* MusicElement.swift */; };
 		529B59AA2AF379D200E6208E /* MusicData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59A92AF379D200E6208E /* MusicData.swift */; };
 		529B59AC2AF37D7C00E6208E /* MusicStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59AB2AF37D7C00E6208E /* MusicStore.swift */; };
 		529B59B02AF3D4EC00E6208E /* PlayMusicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59AF2AF3D4EC00E6208E /* PlayMusicView.swift */; };
@@ -32,7 +31,6 @@
 		529B599A2AF3773900E6208E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		529B599C2AF3773900E6208E /* MusicApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MusicApp.entitlements; sourceTree = "<group>"; };
 		529B599E2AF3773900E6208E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		529B59A72AF3791000E6208E /* MusicElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicElement.swift; sourceTree = "<group>"; };
 		529B59A92AF379D200E6208E /* MusicData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicData.swift; sourceTree = "<group>"; };
 		529B59AB2AF37D7C00E6208E /* MusicStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicStore.swift; sourceTree = "<group>"; };
 		529B59AF2AF3D4EC00E6208E /* PlayMusicView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayMusicView.swift; sourceTree = "<group>"; };
@@ -98,7 +96,6 @@
 			isa = PBXGroup;
 			children = (
 				527BAD512AF47F4D0059976F /* topTracks.json */,
-				529B59A72AF3791000E6208E /* MusicElement.swift */,
 				529B59962AF3773800E6208E /* MusicAppApp.swift */,
 				529B599A2AF3773900E6208E /* Assets.xcassets */,
 				529B599C2AF3773900E6208E /* MusicApp.entitlements */,
@@ -194,7 +191,6 @@
 				529B59AA2AF379D200E6208E /* MusicData.swift in Sources */,
 				527BAD542AF47FD30059976F /* MusicSrc.swift in Sources */,
 				529B59972AF3773800E6208E /* MusicAppApp.swift in Sources */,
-				529B59A82AF3791000E6208E /* MusicElement.swift in Sources */,
 				529B59B22AF3D50500E6208E /* BottomDrawer.swift in Sources */,
 				529B59B02AF3D4EC00E6208E /* PlayMusicView.swift in Sources */,
 			);

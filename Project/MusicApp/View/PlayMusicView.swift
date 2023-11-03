@@ -1,5 +1,5 @@
 //
-//  MusicDetail.swift
+//  PlayMusic.swift
 //  iOS-Music
 //
 //  Created by 김소혜 on 11/2/23.
@@ -13,7 +13,7 @@ struct PlayMusic: View {
     @Binding var selectedIdx: Int
     
     @Binding var PlayList : [MusicSrc]
-    
+    @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     
     var body: some View {
         ZStack{
@@ -27,6 +27,7 @@ struct PlayMusic: View {
             }
             .padding(.horizontal)
         }
+        .navigationBarBackButtonHidden(true)
         
         .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)
         .background(Color.white.edgesIgnoringSafeArea(.bottom))
@@ -42,18 +43,25 @@ struct PlayMusic: View {
                             List {
                                 ForEach(0..<PlayList.count, id: \.self) { i in
                                     HStack{
-                                        AsyncImage(url: URL(string: PlayList[i].image))
-                                            .frame(width: 50, height: 50)
+                                        AsyncImage(url: URL(string: PlayList[i].image)){ image in
+                                            image.resizable()
+                                        }placeholder: {
+                                            ProgressView()
+                                        }
+                                        .frame(width: 50, height: 50)
+                                        .cornerRadius(4)
+
+                                            
                                         VStack(alignment: .leading){
-                                            Text(PlayList[i].name)
+                                            Text(PlayList[i].title)
                                                 .font(.headline)
                                                 .foregroundStyle(.white)
-                                            Text(PlayList[i].name)
+                                            Text(PlayList[i].artist)
                                                 .font(.body)
-                                                .foregroundStyle(.gray)
+                                                .foregroundStyle(.white)
                                         }
                                     }
-                                    .listRowBackground(Color.gray.opacity(0.9))
+                                    .listRowBackground(Color.gray.opacity(0.7))
                                 }
                                 .onMove(perform: moveArtist)
                                 .onDelete(perform: deleteArtist)
@@ -61,6 +69,7 @@ struct PlayMusic: View {
                             .scrollContentBackground(.hidden)
                             
                         }
+                         
                         .background(Color.gray.opacity(0.9))
                         .toolbar {
                             ToolbarItem(placement: ToolbarItemPlacement.navigationBarTrailing) {
@@ -101,10 +110,15 @@ extension PlayMusic{
     
     private var headerView: some View{
         HStack(spacing: 20){
-            Image(systemName: "chevron.down")
-                .resizable()
-                .scaledToFit()
-                .frame(height: 10)
+            Button{
+                self.presentationMode.wrappedValue.dismiss()
+            }label:{
+                Image(systemName: "chevron.down")
+                    .resizable()
+                    .scaledToFit()
+                    .frame(height: 10)
+                    .foregroundColor(.black)
+            }
             Spacer()
             Image(systemName: "dot.radiowaves.up.forward")
                 .resizable()
@@ -124,26 +138,25 @@ extension PlayMusic{
     
     private var musicImageView: some View{
         VStack{
-            AsyncImage(url: URL(string: musicStore.musics[selectedIdx].image))
-                .frame(width: 50, height: 50)
-//            Image(musicStore.musics[selectedIdx].image)
-//                .resizable()
-                .scaledToFill()
-                .frame(maxWidth:340, maxHeight: 340)
-               // .padding()
-                .clipShape(Rectangle())
-                .cornerRadius(10)
-                //.padding(.top, 10)
-                .scaleEffect(1)
+            AsyncImage(url: URL(string: musicStore.musics[selectedIdx].image )){image in
+                image.resizable()
+            } placeholder: {
+                ProgressView()
+            }
+            .scaledToFill()
+            .frame(maxWidth:340, maxHeight: 340)
+            .clipShape(Rectangle())
+            .cornerRadius(10)
+            .scaleEffect(1)
                 //.padding(.horizontal,15)
                 
             HStack{
                 VStack{
-                    Text("ETA")
+                    Text(musicStore.musics[selectedIdx].title)
                         .font(.system(size: 28))
                         .fontWeight(.bold)
                         .frame(maxWidth: .infinity,alignment: .leading)
-                    Text("NewJeans")
+                    Text(musicStore.musics[selectedIdx].artist)
                         .font(.system(size: 18))
                         .frame(maxWidth: .infinity,alignment: .leading)
                 }
@@ -165,6 +178,13 @@ extension PlayMusic{
             }.padding()
             
             HStack{
+                Rectangle()
+                    .frame(width: .infinity, height: 4)
+                    .foregroundColor(Color.gray)
+                    .opacity(0.3)
+            }
+            .padding(.horizontal)
+            HStack{
                 Image(systemName: "shuffle")
                     .resizable()
                     .scaledToFit()
@@ -179,6 +199,7 @@ extension PlayMusic{
                     .resizable()
                     .scaledToFit()
                     .frame(height: 32)
+                     
                 Spacer()
                 Image(systemName: "forward.end.fill")
                     .resizable()
