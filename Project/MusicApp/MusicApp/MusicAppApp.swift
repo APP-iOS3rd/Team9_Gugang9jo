@@ -11,7 +11,11 @@ import SwiftUI
 struct MusicAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+              AnyView(TabBarView())
         }
     }
+}
+
+#Preview {
+    AnyView(TabBarView())
 }

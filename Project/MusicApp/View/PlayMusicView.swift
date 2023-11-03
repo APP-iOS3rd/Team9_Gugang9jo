@@ -27,6 +27,7 @@ struct PlayMusic: View {
             }
             .padding(.horizontal)
         }
+        .toolbar(.hidden, for:.tabBar)
         .navigationBarBackButtonHidden(true)
         
         .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)

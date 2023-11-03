@@ -37,7 +37,7 @@ struct ContentView: View {
                         .frame(maxWidth: .infinity,alignment: .leading)
                }.padding(24)
                
-                   ForEach(0..<musicStore.musics.count, id: \.self) { i in
+                   ForEach(0..<min(musicStore.musics.count,4), id: \.self) { i in
                        NavigationLink(destination: PlayMusic(selectedIdx: $selectedIdx, PlayList:$PlayList)
                                .onAppear {
                                    print(i)
@@ -64,7 +64,7 @@ struct ContentView: View {
                             .fontWeight(.bold)
                             .frame(maxWidth: .infinity,alignment: .leading)
                    }.padding(24)
-                   ForEach(0..<musicStore.musics.count, id: \.self) { i in
+                   ForEach(0..<min(musicStore.musics.count,4), id: \.self) { i in
                        NavigationLink(destination: PlayMusic(selectedIdx: $selectedIdx, PlayList:$PlayList)
                                .onAppear {
                                    let selectedMusic = musicStore.musics[i]
@@ -122,6 +122,6 @@ struct MusicList: View {
 }
 
 
-#Preview {
-   ContentView(selectedIdx: 0)
-}
+//#Preview {
+//   ContentView(selectedIdx: 0)
+//}
