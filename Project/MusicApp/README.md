@@ -10,13 +10,22 @@
 |-------|-------|-------|
 |<img src="https://github.com/APP-iOS3rd/Team9_Gugang9jo/blob/main/Project/MusicApp/docsImage/MainView.png"  width="200" height="300">|<img src="https://github.com/APP-iOS3rd/Team9_Gugang9jo/blob/main/Project/MusicApp/docsImage/PlayView.png"  width="200" height="300">|<img src="https://github.com/APP-iOS3rd/Team9_Gugang9jo/blob/main/Project/MusicApp/docsImage/PlayListView.png"  width="200" height="300">
 
+## 특징
+1. 음악 선택시 자동으로 Playlist에 저장
+2. Playlist에 이미 있는 음악 선택시 선택한 음악 맨 위로 정렬
+3. bottom sheet drawer을 사용하여 playlist 구현
+
+## 릴리스 노트
+| Version | 변경사항 |
+| ------- | -------- |
+| 1.0     | Json 파일 사용, 비동기 이미지 다운로드 |
 
 ### 시작 페이지 (ContentView)
 
 <strong>기능 설명</strong>
 
 ```
-1. Spotify api - Top tracks json파일을 받아서 진행
+1. Bilboard api - Top tracks json파일을 받아서 진행
 2. Json text를 기반으로 자료형 구조화
 3. NavigationStack을 이용해서 각 item을 플레이 페이지와 연결
 4. List 설명
