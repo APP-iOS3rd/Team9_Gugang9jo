@@ -1,0 +1,1002 @@
+[
+    {
+        "artist": "Roddy Ricch",
+        "title": "The Box",
+        "last_week": "1",
+        "rank": "1",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2018/11/roddy-ricch-zyg-180x180.jpg",
+        "peak_position": "1",
+        "weeks_on_chart": "14"
+    },
+    {
+        "artist": "Dua Lipa",
+        "title": "Don&#039;t Start Now",
+        "last_week": "3",
+        "rank": "2",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/dua-lipa-eqf-dont-start-now-q9p-180x180.jpg",
+        "peak_position": "2",
+        "weeks_on_chart": "19"
+    },
+    {
+        "artist": "Future Featuring Drake",
+        "title": "Life Is Good",
+        "last_week": "2",
+        "rank": "3",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/01/future-f8b-life-is-good-rko-180x180.jpg",
+        "peak_position": "2",
+        "weeks_on_chart": "9"
+    },
+    {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "last_week": "7",
+        "rank": "4",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/12/the-weeknd-xmx-blinding-lights-gfd-180x180.jpg",
+        "peak_position": "4",
+        "weeks_on_chart": "15"
+    },
+    {
+        "artist": "Post Malone",
+        "title": "Circles",
+        "last_week": "4",
+        "rank": "5",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/09/post-malone-8b5-circles-sb0-180x180.jpg",
+        "peak_position": "1",
+        "weeks_on_chart": "28"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Baby Pluto",
+        "last_week": "-",
+        "rank": "6",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "6",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Arizona Zervas",
+        "title": "Roxanne",
+        "last_week": "6",
+        "rank": "7",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/arizona-zervas-egt-roxanne-5y8-180x180.jpg",
+        "peak_position": "4",
+        "weeks_on_chart": "19"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Lo Mein",
+        "last_week": "-",
+        "rank": "8",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "8",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Silly Watch",
+        "last_week": "-",
+        "rank": "9",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "9",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Justin Bieber Featuring Quavo",
+        "title": "Intentions",
+        "last_week": "10",
+        "rank": "10",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/02/justin-bieber-09y-intentions-w81-180x180.jpg",
+        "peak_position": "9",
+        "weeks_on_chart": "5"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "P2",
+        "last_week": "-",
+        "rank": "11",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "11",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Tones And I",
+        "title": "Dance Monkey",
+        "last_week": "8",
+        "rank": "12",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/08/tones-and-i-e1q-dance-monkey-945-180x180.jpg",
+        "peak_position": "4",
+        "weeks_on_chart": "23"
+    },
+    {
+        "artist": "Maroon 5",
+        "title": "Memories",
+        "last_week": "9",
+        "rank": "13",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/09/maroon-5-vhb-memories-cnj-180x180.jpg",
+        "peak_position": "2",
+        "weeks_on_chart": "25"
+    },
+    {
+        "artist": "Billie Eilish",
+        "title": "Everything I Wanted",
+        "last_week": "12",
+        "rank": "14",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/billie-eilish-lrt-everything-i-wanted-mj1-180x180.jpg",
+        "peak_position": "8",
+        "weeks_on_chart": "18"
+    },
+    {
+        "artist": "Lewis Capaldi",
+        "title": "Someone You Loved",
+        "last_week": "11",
+        "rank": "15",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/03/lewis-capaldi-s2h-someone-you-loved-em0-180x180.jpg",
+        "peak_position": "1",
+        "weeks_on_chart": "44"
+    },
+    {
+        "artist": "Harry Styles",
+        "title": "Adore You",
+        "last_week": "14",
+        "rank": "16",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2017/04/harry-styles-6jk-180x180.jpg",
+        "peak_position": "14",
+        "weeks_on_chart": "14"
+    },
+    {
+        "artist": "blackbear",
+        "title": "Hot Girl Bummer",
+        "last_week": "13",
+        "rank": "17",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/09/blackbear-kx0-hot-girl-bummer-nvt-180x180.jpg",
+        "peak_position": "13",
+        "weeks_on_chart": "26"
+    },
+    {
+        "artist": "Demi Lovato",
+        "title": "I Love Me",
+        "last_week": "-",
+        "rank": "18",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/03/demi-lovato-3qc-iloveme-fqg-180x180.jpg",
+        "peak_position": "18",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Doja Cat Featuring Nicki Minaj",
+        "title": "Say So",
+        "last_week": "16",
+        "rank": "19",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/12/doja-cat-lm6-say-so-z1g-180x180.jpg",
+        "peak_position": "16",
+        "weeks_on_chart": "10"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "That Way",
+        "last_week": "21",
+        "rank": "20",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/03/lil-uzi-vert-mre-that-way-m2h-180x180.jpg",
+        "peak_position": "20",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "The Weeknd",
+        "title": "Heartless",
+        "last_week": "17",
+        "rank": "21",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/12/the-weeknd-xmx-heartless-6te-180x180.jpg",
+        "peak_position": "1",
+        "weeks_on_chart": "16"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Homecoming",
+        "last_week": "-",
+        "rank": "22",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "22",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Maren Morris",
+        "title": "The Bones",
+        "last_week": "19",
+        "rank": "23",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/03/maren-morris-4ky-the-bones-u43-180x180.jpg",
+        "peak_position": "18",
+        "weeks_on_chart": "25"
+    },
+    {
+        "artist": "Jhene Aiko Featuring H.E.R.",
+        "title": "B.S.",
+        "last_week": "-",
+        "rank": "24",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2013/07/jhene-aiko-yqw-180x180.jpg",
+        "peak_position": "24",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Prices",
+        "last_week": "-",
+        "rank": "25",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "25",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Camila Cabello Featuring DaBaby",
+        "title": "My Oh My",
+        "last_week": "25",
+        "rank": "26",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2015/12/camila-cabello-bvl-180x180.jpg",
+        "peak_position": "22",
+        "weeks_on_chart": "14"
+    },
+    {
+        "artist": "Dan + Shay &amp; Justin Bieber",
+        "title": "10,000 Hours",
+        "last_week": "20",
+        "rank": "27",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/10/dan-shay-mwp-10000-hours-e1h-180x180.jpg",
+        "peak_position": "4",
+        "weeks_on_chart": "23"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "POP",
+        "last_week": "-",
+        "rank": "28",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "28",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Mustard &amp; Roddy Ricch",
+        "title": "Ballin&#039;",
+        "last_week": "22",
+        "rank": "29",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/07/mustard-000-ballin-3hx-180x180.jpg",
+        "peak_position": "11",
+        "weeks_on_chart": "34"
+    },
+    {
+        "artist": "Lady Gaga",
+        "title": "Stupid Love",
+        "last_week": "5",
+        "rank": "30",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/03/lady-gaga-lkc-stupid-love-arb-180x180.jpg",
+        "peak_position": "5",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Lil Baby",
+        "title": "Woah",
+        "last_week": "15",
+        "rank": "31",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/lilbaby-kyx-woah-h7f-180x180.jpg",
+        "peak_position": "15",
+        "weeks_on_chart": "18"
+    },
+    {
+        "artist": "Eminem Featuring Juice WRLD",
+        "title": "Godzilla",
+        "last_week": "42",
+        "rank": "32",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/02/eminem-6zg-godzilla-r12-180x180.jpg",
+        "peak_position": "3",
+        "weeks_on_chart": "8"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Bigger Than Life",
+        "last_week": "-",
+        "rank": "33",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "33",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Celebration Station",
+        "last_week": "-",
+        "rank": "34",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "34",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "DaBaby",
+        "title": "BOP",
+        "last_week": "24",
+        "rank": "35",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/10/dababy-sfn-bop-3fy-180x180.jpg",
+        "peak_position": "11",
+        "weeks_on_chart": "24"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "You Better Move",
+        "last_week": "-",
+        "rank": "36",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "36",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "I&#039;m Sorry",
+        "last_week": "-",
+        "rank": "37",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "37",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Selena Gomez",
+        "title": "Lose You To Love Me",
+        "last_week": "27",
+        "rank": "38",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/selena-gomez-lkr-lose-you-to-love-me-ygt-180x180.jpg",
+        "peak_position": "1",
+        "weeks_on_chart": "21"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Venetia",
+        "last_week": "-",
+        "rank": "39",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "39",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Jhene Aiko",
+        "title": "P*$$y Fairy (OTW)",
+        "last_week": "100",
+        "rank": "40",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/02/jhene-aiko-adf-p*$$y-fairy-otw-ycj-180x180.jpg",
+        "peak_position": "40",
+        "weeks_on_chart": "8"
+    },
+    {
+        "artist": "Halsey",
+        "title": "You Should Be Sad",
+        "last_week": "29",
+        "rank": "41",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/01/halsey-000-you-should-be-sad-gqk-180x180.jpg",
+        "peak_position": "26",
+        "weeks_on_chart": "9"
+    },
+    {
+        "artist": "Trevor Daniel",
+        "title": "Falling",
+        "last_week": "34",
+        "rank": "42",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/trevor-daniel-9ow-falling-gtf-180x180.jpg",
+        "peak_position": "25",
+        "weeks_on_chart": "17"
+    },
+    {
+        "artist": "Roddy Ricch Featuring Mustard",
+        "title": "High Fashion",
+        "last_week": "30",
+        "rank": "43",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2018/11/roddy-ricch-zyg-180x180.jpg",
+        "peak_position": "20",
+        "weeks_on_chart": "11"
+    },
+    {
+        "artist": "Kane Brown",
+        "title": "Homesick",
+        "last_week": "39",
+        "rank": "44",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2018/09/kane-brown-dqa-homesick-70q-180x180.jpg",
+        "peak_position": "39",
+        "weeks_on_chart": "17"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Chrome Heart Tags",
+        "last_week": "-",
+        "rank": "45",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "45",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Chris Brown Featuring Drake",
+        "title": "No Guidance",
+        "last_week": "37",
+        "rank": "46",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/06/chris-brown-94g-noguidance-n4i-180x180.jpg",
+        "peak_position": "5",
+        "weeks_on_chart": "40"
+    },
+    {
+        "artist": "Black Eyed Peas X J Balvin",
+        "title": "RITMO (Bad Boys For Life)",
+        "last_week": "44",
+        "rank": "47",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/10/the-black-eyed-peas-f5s-ritmo-bad-boys-for-life-2fu-180x180.jpg",
+        "peak_position": "36",
+        "weeks_on_chart": "16"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Futsal Shuffle 2020",
+        "last_week": "-",
+        "rank": "48",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/12/lil-uzi-vert-mre-futsal-shuffle-2020-h3e-180x180.jpg",
+        "peak_position": "5",
+        "weeks_on_chart": "10"
+    },
+    {
+        "artist": "Lizzo",
+        "title": "Good As Hell",
+        "last_week": "35",
+        "rank": "49",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2016/04/lizzo-w3u-good-as-hell-lpw-180x180.jpg",
+        "peak_position": "3",
+        "weeks_on_chart": "29"
+    },
+    {
+        "artist": "Gabby Barrett Featuring Charlie Puth",
+        "title": "I Hope",
+        "last_week": "51",
+        "rank": "50",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/03/gabby-barrett-ait-i-hope-mnv-180x180.jpg",
+        "peak_position": "44",
+        "weeks_on_chart": "11"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Bust Me",
+        "last_week": "-",
+        "rank": "51",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "51",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Lil Baby",
+        "title": "Sum 2 Prove",
+        "last_week": "26",
+        "rank": "52",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/01/lilbaby-kyx-sum2prove-lbi-180x180.jpg",
+        "peak_position": "16",
+        "weeks_on_chart": "9"
+    },
+    {
+        "artist": "Lil Mosey",
+        "title": "Blueberry Faygo",
+        "last_week": "52",
+        "rank": "53",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/02/lil-mosey-hjw-blueberry-faygo-e1e-180x180.jpg",
+        "peak_position": "51",
+        "weeks_on_chart": "5"
+    },
+    {
+        "artist": "Bad Bunny",
+        "title": "La Dificil",
+        "last_week": "33",
+        "rank": "54",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+        "peak_position": "33",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Pop Smoke",
+        "title": "Dior",
+        "last_week": "47",
+        "rank": "55",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/08/pop-smoke-2yd-180x180.jpg",
+        "peak_position": "30",
+        "weeks_on_chart": "4"
+    },
+    {
+        "artist": "Bad Bunny",
+        "title": "Si Veo A Tu Mama",
+        "last_week": "32",
+        "rank": "56",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+        "peak_position": "32",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Lil Baby &amp; Gunna",
+        "title": "Heatin Up",
+        "last_week": "18",
+        "rank": "57",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+        "peak_position": "18",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Rod Wave",
+        "title": "Heart On Ice",
+        "last_week": "55",
+        "rank": "58",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/11/rod-wave-qt2-heart-on-ice-02e-180x180.jpg",
+        "peak_position": "54",
+        "weeks_on_chart": "18"
+    },
+    {
+        "artist": "Megan Thee Stallion",
+        "title": "B.I.T.C.H.",
+        "last_week": "-",
+        "rank": "59",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/02/megan-thee-stallion-dkc-bitch-mg4-180x180.jpg",
+        "peak_position": "31",
+        "weeks_on_chart": "5"
+    },
+    {
+        "artist": "Jake Owen",
+        "title": "Homemade",
+        "last_week": "70",
+        "rank": "60",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/06/jake-owen-17q-homemade-uhu-180x180.jpg",
+        "peak_position": "60",
+        "weeks_on_chart": "7"
+    },
+    {
+        "artist": "H.E.R. Featuring YG",
+        "title": "Slide",
+        "last_week": "56",
+        "rank": "61",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/10/her-tdk-slide-jvj-180x180.jpg",
+        "peak_position": "52",
+        "weeks_on_chart": "12"
+    },
+    {
+        "artist": "Russ &amp; BIA",
+        "title": "BEST ON EARTH",
+        "last_week": "60",
+        "rank": "62",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/11/russ-8dy-best-on-earth-ykk-180x180.jpg",
+        "peak_position": "52",
+        "weeks_on_chart": "14"
+    },
+    {
+        "artist": "Jonas Brothers",
+        "title": "What A Man Gotta Do",
+        "last_week": "41",
+        "rank": "63",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/01/jonas-brothers-r3d-what-a-man-gotta-do-nnf-180x180.jpg",
+        "peak_position": "16",
+        "weeks_on_chart": "8"
+    },
+    {
+        "artist": "Lil Baby",
+        "title": "Emotionally Scarred",
+        "last_week": "31",
+        "rank": "64",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+        "peak_position": "31",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Jhene Aiko Featuring Future &amp; Miguel",
+        "title": "Happiness Over Everything (H.O.E.)",
+        "last_week": "-",
+        "rank": "65",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/03/jhene-aiko-yqw-happiness-over-everything-hoe-46k-180x180.jpg",
+        "peak_position": "65",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Bad Bunny",
+        "title": "Vete",
+        "last_week": "36",
+        "rank": "66",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+        "peak_position": "33",
+        "weeks_on_chart": "15"
+    },
+    {
+        "artist": "Justin Bieber",
+        "title": "Yummy",
+        "last_week": "40",
+        "rank": "67",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/01/justin-bieber-4oh-yummy-vs5-180x180.jpg",
+        "peak_position": "2",
+        "weeks_on_chart": "10"
+    },
+    {
+        "artist": "Lil Baby Featuring Lil Uzi Vert",
+        "title": "Commercial",
+        "last_week": "23",
+        "rank": "68",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+        "peak_position": "23",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Blake Shelton Duet With Gwen Stefani",
+        "title": "Nobody But You",
+        "last_week": "67",
+        "rank": "69",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/12/blake-shelton-6x7-nobody-but-you-29g-180x180.jpg",
+        "peak_position": "43",
+        "weeks_on_chart": "9"
+    },
+    {
+        "artist": "Morgan Wallen",
+        "title": "Chasin&#039; You",
+        "last_week": "71",
+        "rank": "70",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/08/morgan-wallen-nlu-chasin-you-lav-180x180.jpg",
+        "peak_position": "67",
+        "weeks_on_chart": "7"
+    },
+    {
+        "artist": "Doja Cat &amp; Tyga",
+        "title": "Juicy",
+        "last_week": "57",
+        "rank": "71",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/08/doja-cat-lm6-juicy-ly4-180x180.jpg",
+        "peak_position": "41",
+        "weeks_on_chart": "20"
+    },
+    {
+        "artist": "Lil Uzi Vert",
+        "title": "Secure The Bag",
+        "last_week": "-",
+        "rank": "72",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "72",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Jack Harlow Featuring DaBaby, Tory Lanez &amp; Lil Wayne",
+        "title": "Whats Poppin",
+        "last_week": "74",
+        "rank": "73",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/02/jackharlow-i43-whatspoppin-fly-180x180.jpg",
+        "peak_position": "73",
+        "weeks_on_chart": "5"
+    },
+    {
+        "artist": "Megan Thee Stallion",
+        "title": "Captain Hook",
+        "last_week": "-",
+        "rank": "74",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/01/megan-thee-stallion-dkc-180x180.jpg",
+        "peak_position": "74",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Karol G &amp; Nicki Minaj",
+        "title": "Tusa",
+        "last_week": "62",
+        "rank": "75",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/karol-g-tb3-tusa-3rn-180x180.jpg",
+        "peak_position": "42",
+        "weeks_on_chart": "15"
+    },
+    {
+        "artist": "Lil Uzi Vert Featuring Syd",
+        "title": "Urgency",
+        "last_week": "-",
+        "rank": "76",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/04/lil-uzi-vert-mre-180x180.jpg",
+        "peak_position": "76",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Jordan Davis",
+        "title": "Slow Dance In A Parking Lot",
+        "last_week": "75",
+        "rank": "77",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/05/jordan-davis-8bp-slow-dance-in-a-parking-lot-1s8-180x180.jpg",
+        "peak_position": "72",
+        "weeks_on_chart": "10"
+    },
+    {
+        "artist": "Luke Bryan",
+        "title": "What She Wants Tonight",
+        "last_week": "72",
+        "rank": "78",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/11/luke-bryan-qhx-what-she-wants-tonight-3j8-180x180.jpg",
+        "peak_position": "64",
+        "weeks_on_chart": "12"
+    },
+    {
+        "artist": "Gunna",
+        "title": "SkyBox",
+        "last_week": "-",
+        "rank": "79",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/03/gunna-czg-skybox-7q8-180x180.jpg",
+        "peak_position": "79",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "SZA X Justin Timberlake",
+        "title": "The Other Side",
+        "last_week": "61",
+        "rank": "80",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/03/sza-mhq-the-other-side-fvs-180x180.jpg",
+        "peak_position": "61",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Jason Aldean",
+        "title": "We Back",
+        "last_week": "79",
+        "rank": "81",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/09/jason-aldean-asu-we-back-7nx-180x180.jpg",
+        "peak_position": "62",
+        "weeks_on_chart": "15"
+    },
+    {
+        "artist": "Riley Green",
+        "title": "I Wish Grandpas Never Died",
+        "last_week": "83",
+        "rank": "82",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/08/riley-green-5g0-i-wish-grandpas-never-died-kk6-180x180.jpg",
+        "peak_position": "66",
+        "weeks_on_chart": "11"
+    },
+    {
+        "artist": "Bad Bunny &amp; Sech",
+        "title": "Ignorantes",
+        "last_week": "49",
+        "rank": "83",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/02/bad-bunny-c3m-ignorantes-lpb-180x180.jpg",
+        "peak_position": "49",
+        "weeks_on_chart": "3"
+    },
+    {
+        "artist": "Bad Bunny, Jowell &amp; Randy &amp; Nengo Flow",
+        "title": "Safaera",
+        "last_week": "81",
+        "rank": "84",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+        "peak_position": "81",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Ingrid Andress",
+        "title": "More Hearts Than Mine",
+        "last_week": "77",
+        "rank": "85",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2019/07/ingridandress-eh5-moreheartsthanmine-qra-180x180.jpg",
+        "peak_position": "67",
+        "weeks_on_chart": "11"
+    },
+    {
+        "artist": "Brett Young",
+        "title": "Catch",
+        "last_week": "87",
+        "rank": "86",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/06/brett-young-000-catch-97n-180x180.jpg",
+        "peak_position": "81",
+        "weeks_on_chart": "7"
+    },
+    {
+        "artist": "Jhene Aiko",
+        "title": "Triggered",
+        "last_week": "-",
+        "rank": "87",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/05/jhene-aiko-yqw-triggered-odo-180x180.jpg",
+        "peak_position": "51",
+        "weeks_on_chart": "4"
+    },
+    {
+        "artist": "G Herbo Featuring Chance The Rapper, Juice WRLD &amp; Lil Uzi Vert",
+        "title": "PTSD",
+        "last_week": "38",
+        "rank": "88",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2015/09/g-herbo-izt-180x180.jpg",
+        "peak_position": "38",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Lil Yachty, Drake &amp; DaBaby",
+        "title": "Oprah&#039;s Bank Account",
+        "last_week": "-",
+        "rank": "89",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/03/lil-yachty-ecx-oprahs-bank-account-hhw-180x180.jpg",
+        "peak_position": "89",
+        "weeks_on_chart": "1"
+    },
+    {
+        "artist": "Polo G Featuring NLE Choppa &amp; Stunna 4 Vegas",
+        "title": "Go Stupid",
+        "last_week": "65",
+        "rank": "90",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/02/polo-g-n1o-go-stupid-a7p-180x180.jpg",
+        "peak_position": "60",
+        "weeks_on_chart": "4"
+    },
+    {
+        "artist": "Carly Pearce &amp; Lee Brice",
+        "title": "I Hope You&#039;re Happy Now",
+        "last_week": "88",
+        "rank": "91",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/10/carly-pearce-al1-i-hope-youre-happy-now-1s8-180x180.jpg",
+        "peak_position": "65",
+        "weeks_on_chart": "10"
+    },
+    {
+        "artist": "Bad Bunny X Daddy Yankee",
+        "title": "La Santa",
+        "last_week": "53",
+        "rank": "92",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+        "peak_position": "53",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Jhene Aiko Featuring Big Sean",
+        "title": "None Of Your Concern",
+        "last_week": "-",
+        "rank": "93",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/11/jhene-aiko-yqw-none-of-your-concern-c20-180x180.jpg",
+        "peak_position": "55",
+        "weeks_on_chart": "3"
+    },
+    {
+        "artist": "Khalid x Disclosure",
+        "title": "Know Your Worth",
+        "last_week": "86",
+        "rank": "94",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/02/khalid-p0u-know-your-worth-afz-180x180.jpg",
+        "peak_position": "57",
+        "weeks_on_chart": "5"
+    },
+    {
+        "artist": "BrockHampton",
+        "title": "SUGAR",
+        "last_week": "-",
+        "rank": "95",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2020/01/brockhampton-nvj-sugar-shp-180x180.jpg",
+        "peak_position": "66",
+        "weeks_on_chart": "9"
+    },
+    {
+        "artist": "Sam Smith",
+        "title": "To Die For",
+        "last_week": "84",
+        "rank": "96",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/02/sam-smith-ik0-to-die-for-e6v-180x180.jpg",
+        "peak_position": "46",
+        "weeks_on_chart": "4"
+    },
+    {
+        "artist": "Bad Bunny",
+        "title": "Yo Perreo Sola",
+        "last_week": "69",
+        "rank": "97",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2016/10/bad-bunny-c3m-180x180.jpg",
+        "peak_position": "69",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Lil Baby &amp; 42 Dugg",
+        "title": "Grace",
+        "last_week": "48",
+        "rank": "98",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2017/11/lilbaby-kyx-180x180.jpg",
+        "peak_position": "48",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "Surfaces",
+        "title": "Sunday Best",
+        "last_week": "98",
+        "rank": "99",
+        "award": true,
+        "image": "https://charts-static.billboard.com/img/2019/08/surfaces-eo5-180x180.jpg",
+        "peak_position": "98",
+        "weeks_on_chart": "2"
+    },
+    {
+        "artist": "The Weeknd",
+        "title": "After Hours",
+        "last_week": "66",
+        "rank": "100",
+        "award": false,
+        "image": "https://charts-static.billboard.com/img/2020/02/the-weeknd-xmx-after-hours-iol-180x180.jpg",
+        "peak_position": "20",
+        "weeks_on_chart": "4"
+    }
+]

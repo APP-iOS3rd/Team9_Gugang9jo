@@ -7,7 +7,7 @@
 
 import Foundation
 
-var musicData: [MusicElement] = loadJson("topTracks.json")
+var musicData: [MusicSrc] = loadJson("topTracks.json")
 
 // JSON 파일을 로드하는 표준 방식, 이후 앱에서도 사용이 가능
 func loadJson<T: Decodable>(_ filename: String) -> T {

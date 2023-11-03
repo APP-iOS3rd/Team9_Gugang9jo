@@ -10,20 +10,21 @@ import SwiftUI
 
 
 struct ContentView: View {
+    
     @StateObject var musicStore: MusicStore = MusicStore(musics: musicData)
     @State var selectedIdx = 0
-    @State var PlayList : [MusicElement] = []
+    @State var PlayList : [MusicSrc] = []
 
     var body: some View {
         NavigationStack{
             VStack{
                 List {
                     ForEach(0..<musicStore.musics.count, id: \.self) { i in
-                        NavigationLink(destination: PlayMusic(selectedIdx: $selectedIdx, PlayList:$PlayList)
+                        NavigationLink(destination: PlayMusic(selectedIdx: $selectedIdx, PlayList: $PlayList)
                                 .onAppear {
                                     let selectedMusic = musicStore.musics[i]
-                                    if PlayList.contains(where: {$0.name == selectedMusic.name}){
-                                        if let index = PlayList.firstIndex(where: { $0.name  == selectedMusic.name }) {
+                                    if PlayList.contains(where: {$0.title == selectedMusic.title}){
+                                        if let index = PlayList.firstIndex(where: { $0.title  == selectedMusic.title }) {
                                             PlayList.swapAt(index, 0) // PlayList의 첫 번째 인덱스로 이동
                                         }
                                     }
@@ -49,7 +50,7 @@ struct MusicList: View {
     var body: some View {
     
             HStack {
-                AsyncImage(url: URL(string: musicStore.musics[i].image.first?.text ?? "" )){ image in
+                AsyncImage(url: URL(string: musicStore.musics[i].image )){ image in
                     image.resizable()
                 } placeholder: {
                     ProgressView()
@@ -58,10 +59,10 @@ struct MusicList: View {
                     
                 
                 VStack(alignment: .leading, content: {
-                    Text(musicStore.musics[i].name)
+                    Text(musicStore.musics[i].title)
                         .font(.headline)
                         .lineLimit(3) //3줄까지만 제한을 둔다.
-                    Text(musicStore.musics[i].artist.name)
+                    Text(musicStore.musics[i].artist)
                     
                         
                 })

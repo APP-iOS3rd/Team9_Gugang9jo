@@ -8,10 +8,10 @@
 import Foundation
 class MusicStore: ObservableObject{
     
-    @Published var musics: [MusicElement]
-    
-    init(musics: [MusicElement] = []){
-        self.musics = musics
+    @Published var musics: [MusicSrc]
+        
+        init(musics: [MusicSrc] = []){
+            self.musics = musics
     }
     
 }

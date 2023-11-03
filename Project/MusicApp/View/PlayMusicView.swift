@@ -12,7 +12,7 @@ struct PlayMusic: View {
     @StateObject var musicStore: MusicStore = MusicStore(musics: musicData)
     @Binding var selectedIdx: Int
     
-    @Binding var PlayList : [MusicElement]
+    @Binding var PlayList : [MusicSrc]
     
     
     var body: some View {
@@ -42,7 +42,7 @@ struct PlayMusic: View {
                             List {
                                 ForEach(0..<PlayList.count, id: \.self) { i in
                                     HStack{
-                                        AsyncImage(url: URL(string: PlayList[i].image.first?.text ?? ""))
+                                        AsyncImage(url: URL(string: PlayList[i].image))
                                             .frame(width: 50, height: 50)
                                         VStack(alignment: .leading){
                                             Text(PlayList[i].name)
@@ -124,7 +124,7 @@ extension PlayMusic{
     
     private var musicImageView: some View{
         VStack{
-            AsyncImage(url: URL(string: musicStore.musics[selectedIdx].image.first?.text ?? "" ))
+            AsyncImage(url: URL(string: musicStore.musics[selectedIdx].image))
                 .frame(width: 50, height: 50)
 //            Image(musicStore.musics[selectedIdx].image)
 //                .resizable()
