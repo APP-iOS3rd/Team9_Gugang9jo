@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		527BAD522AF47F4D0059976F /* topTracks.json in Resources */ = {isa = PBXBuildFile; fileRef = 527BAD512AF47F4D0059976F /* topTracks.json */; };
+		016A1BB32AF8B99F007D9E8E /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016A1BB22AF8B99F007D9E8E /* TabBarView.swift */; };
+		016A1BB62AF8B9B5007D9E8E /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016A1BB42AF8B9B5007D9E8E /* ImageView.swift */; };
+		016A1BB72AF8B9B5007D9E8E /* FavoriteListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016A1BB52AF8B9B5007D9E8E /* FavoriteListView.swift */; };
+		016A1BBB2AF8BA7A007D9E8E /* ImageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016A1BBA2AF8BA7A007D9E8E /* ImageViewModel.swift */; };
+		016A1BBD2AF8BAA8007D9E8E /* topTracks.json in Resources */ = {isa = PBXBuildFile; fileRef = 016A1BBC2AF8BAA8007D9E8E /* topTracks.json */; };
 		527BAD542AF47FD30059976F /* MusicSrc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527BAD532AF47FD30059976F /* MusicSrc.swift */; };
 		529B59972AF3773800E6208E /* MusicAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59962AF3773800E6208E /* MusicAppApp.swift */; };
 		529B59992AF3773800E6208E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529B59982AF3773800E6208E /* ContentView.swift */; };
@@ -23,7 +27,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		527BAD512AF47F4D0059976F /* topTracks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = topTracks.json; path = ../../../../../../Downloads/topTracks.json; sourceTree = "<group>"; };
+		016A1BB22AF8B99F007D9E8E /* TabBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TabBarView.swift; path = "../../../../MusicApp 복사본/View/TabBarView.swift"; sourceTree = "<group>"; };
+		016A1BB42AF8B9B5007D9E8E /* ImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ImageView.swift; path = "../../../../MusicApp 복사본/View/ImageView.swift"; sourceTree = "<group>"; };
+		016A1BB52AF8B9B5007D9E8E /* FavoriteListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FavoriteListView.swift; path = "../../../../MusicApp 복사본/View/FavoriteListView.swift"; sourceTree = "<group>"; };
+		016A1BBA2AF8BA7A007D9E8E /* ImageViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewModel.swift; sourceTree = "<group>"; };
+		016A1BBC2AF8BAA8007D9E8E /* topTracks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = topTracks.json; path = ../../../../../Desktop/topTracks.json; sourceTree = "<group>"; };
 		527BAD532AF47FD30059976F /* MusicSrc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicSrc.swift; sourceTree = "<group>"; };
 		529B59932AF3773800E6208E /* MusicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		529B59962AF3773800E6208E /* MusicAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicAppApp.swift; sourceTree = "<group>"; };
@@ -55,6 +63,9 @@
 			isa = PBXGroup;
 			children = (
 				529B59982AF3773800E6208E /* ContentView.swift */,
+				016A1BB52AF8B9B5007D9E8E /* FavoriteListView.swift */,
+				016A1BB42AF8B9B5007D9E8E /* ImageView.swift */,
+				016A1BB22AF8B99F007D9E8E /* TabBarView.swift */,
 				529B59AF2AF3D4EC00E6208E /* PlayMusicView.swift */,
 			);
 			path = View;
@@ -63,8 +74,10 @@
 		527BAD5A2AF4844E0059976F /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				016A1BBC2AF8BAA8007D9E8E /* topTracks.json */,
 				529B59A92AF379D200E6208E /* MusicData.swift */,
 				529B59AB2AF37D7C00E6208E /* MusicStore.swift */,
+				016A1BBA2AF8BA7A007D9E8E /* ImageViewModel.swift */,
 				527BAD532AF47FD30059976F /* MusicSrc.swift */,
 			);
 			path = Models;
@@ -95,7 +108,6 @@
 		529B59952AF3773800E6208E /* MusicApp */ = {
 			isa = PBXGroup;
 			children = (
-				527BAD512AF47F4D0059976F /* topTracks.json */,
 				529B59962AF3773800E6208E /* MusicAppApp.swift */,
 				529B599A2AF3773900E6208E /* Assets.xcassets */,
 				529B599C2AF3773900E6208E /* MusicApp.entitlements */,
@@ -170,7 +182,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				527BAD522AF47F4D0059976F /* topTracks.json in Resources */,
+				016A1BBD2AF8BAA8007D9E8E /* topTracks.json in Resources */,
 				529B599F2AF3773900E6208E /* Preview Assets.xcassets in Resources */,
 				529B599B2AF3773900E6208E /* Assets.xcassets in Resources */,
 			);
@@ -183,12 +195,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				016A1BBB2AF8BA7A007D9E8E /* ImageViewModel.swift in Sources */,
+				016A1BB62AF8B9B5007D9E8E /* ImageView.swift in Sources */,
 				529B59AC2AF37D7C00E6208E /* MusicStore.swift in Sources */,
+				016A1BB32AF8B99F007D9E8E /* TabBarView.swift in Sources */,
 				529B59B72AF3D51500E6208E /* CustomCorners.swift in Sources */,
 				529B59B82AF3D51500E6208E /* BottomDrawerModifier.swift in Sources */,
 				529B59992AF3773800E6208E /* ContentView.swift in Sources */,
 				529B59B62AF3D51500E6208E /* DrawerExtension.swift in Sources */,
 				529B59AA2AF379D200E6208E /* MusicData.swift in Sources */,
+				016A1BB72AF8B9B5007D9E8E /* FavoriteListView.swift in Sources */,
 				527BAD542AF47FD30059976F /* MusicSrc.swift in Sources */,
 				529B59972AF3773800E6208E /* MusicAppApp.swift in Sources */,
 				529B59B22AF3D50500E6208E /* BottomDrawer.swift in Sources */,
@@ -322,7 +338,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MusicApp/Preview Content\"";
-				DEVELOPMENT_TEAM = 8383VR3NFP;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -360,7 +376,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MusicApp/Preview Content\"";
-				DEVELOPMENT_TEAM = 8383VR3NFP;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
