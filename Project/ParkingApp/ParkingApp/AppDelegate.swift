@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ParkingApp
 //
-//  Created by 이민호 on 11/24/23.
+//  Created by 이민영 on 2023/11/24.
 //
 
 import UIKit
