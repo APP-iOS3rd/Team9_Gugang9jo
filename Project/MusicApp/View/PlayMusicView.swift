@@ -248,6 +248,6 @@ extension PlayMusic{
     
 }
 
-#Preview {
-    PlayMusic(selectedIdx: .constant(1), PlayList: .constant([]) )
-}
+//#Preview {
+//    PlayMusic(selectedIdx: .constant(1), PlayList: .constant([]) )
+//}
