@@ -6,20 +6,19 @@
 //
 
 import UIKit
+import SwiftUI
 import Alamofire
 import SwiftyJSON
 import NMapsMap
 
-class ViewController: UIViewController {
-    
-    
-    let naverMapView = NMFNaverMapView()
-    
-    
 
+class ViewController: UIViewController {
+   
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        let mapView = NMFMapView(frame: view.frame)
+        
         getParkings(district: "강남구") { parkings in
             if let parkings = parkings {
                 
@@ -34,11 +33,7 @@ class ViewController: UIViewController {
         }
         
         
-        
-        view.addSubview(naverMapView) // NMFNaverView
-        // 뷰 생성
-     
-        
+        view.addSubview(mapView) // NMFNaverView
     }
     
 
@@ -46,7 +41,6 @@ class ViewController: UIViewController {
     
     func getParkings(district: String, completion: @escaping ([Parking]?) -> Void) {
         let url = "http://openapi.seoul.go.kr:8088/52455762756d696e36334365566d4b/json/GetParkingInfo/1/1000/" + district
-        
         
         let alamo = AF.request(url, method: .get)
         alamo.validate().responseJSON { response in
@@ -86,24 +80,5 @@ class ViewController: UIViewController {
             return uniqueParkings
         }
     
-    
-    
-    
-    
-
 
 }
-
-//extension ViewController: NMFMapViewTouchDelegate, NMFMapViewCameraDelegate {
-//    func mapView(_ mapView: NMFMapView, cameraDidChangeByReason reason: Int, animated: Bool) {
-//        switch reason {
-//        case -1:
-//            let lat = mapView.cameraPosition.target.lat
-//            let long = mapView.cameraPosition.target.lng
-//            print("lat: \(lat)")
-//            print("long: \(long)")
-//        default:
-//            return
-//        }
-//    }
-//}

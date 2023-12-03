@@ -12,6 +12,9 @@ import NMapsMap
 
 class NMFMapView: UIViewController, NMFMapViewTouchDelegate, NMFMapViewCameraDelegate
 
- {
+{
   
 }
+
+
+
