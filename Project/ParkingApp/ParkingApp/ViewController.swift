@@ -12,17 +12,30 @@ import SwiftyJSON
 import NMapsMap
 
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UISheetPresentationControllerDelegate {
+    
+    var lat: Double = 0
+    var long: Double = 0
    
+    let naverMapView = NMFNaverMapView(frame: UIScreen.main.bounds)
+//    let cameraUpdate = NMFCameraUpdate(scrollTo: NMGLatLng(lat: 37.48468629, lng: 127.08408987))
+    let cameraUpdate = NMFCameraUpdate()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+//        let mapView = NMFMapView(frame: view.frame)
+        naverMapView.mapView.addCameraDelegate(delegate: self)
+        print(naverMapView.center)
         
-        let mapView = NMFMapView(frame: view.frame)
-        
+       
         getParkings(district: "강남구") { parkings in
             if let parkings = parkings {
                 
                 parkings.forEach{ parkInfo in
+                    let marker = NMFMarker()
+                    marker.position = NMGLatLng(lat: parkInfo.lat, lng: parkInfo.lng)
+                    marker.mapView = self.naverMapView.mapView
+                    
                     print("위도: \(parkInfo.lat), 경도: \(parkInfo.lng)")
                     
                 }
@@ -32,11 +45,11 @@ class ViewController: UIViewController {
             }
         }
         
-        
-        view.addSubview(mapView) // NMFNaverView
+        naverMapView.mapView.moveCamera(cameraUpdate)
+        view.addSubview(naverMapView)
     }
     
-
+    
     
     
     func getParkings(district: String, completion: @escaping ([Parking]?) -> Void) {
@@ -47,7 +60,7 @@ class ViewController: UIViewController {
             switch response.result {
             case .success(let value):
                 let json = JSON(value)
-                print(json)
+//                print(json)
                 if let parkingInfo = try? JSONDecoder().decode(ParkingLot.self, from: json.rawData()) {
                     let parkingArray = parkingInfo.getParkingInfo.row
                     let uniqueArr = self.getUnique(parkingArray)
@@ -81,4 +94,23 @@ class ViewController: UIViewController {
         }
     
 
+}
+
+
+extension ViewController: NMFMapViewTouchDelegate, NMFMapViewCameraDelegate {
+    
+    func mapView(_ mapView: NMFMapView, cameraDidChangeByReason reason: Int, animated: Bool) {
+       switch reason {
+       case -1:
+           // mapView.contentInset = UIEdgeInsets(top: 0, left: 0, bottom: 200, right: 0)
+           self.lat = mapView.cameraPosition.target.lat
+           self.long = mapView.cameraPosition.target.lng
+           print("lng:\(long), lat:\(lat)")
+           debugPrint(mapView.cameraPosition)
+       
+           
+       default:
+           return
+       }
+    }
 }
