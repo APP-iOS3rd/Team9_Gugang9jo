@@ -4,8 +4,6 @@
 
 ## 조원
 
-현재 pull request 연습중입니다
-
 <table align="center">
   <tr>
     <td align="center">
